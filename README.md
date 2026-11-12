@@ -8,6 +8,8 @@ Dataset: https://www.kaggle.com/c/bike-sharing-demand (archivo `train.csv`, incl
 
 Repositorio: https://github.com/alejasuarez22/ProyectoIA
 
+Aplicación: https://proyectoia-ngtykidhzpnn2ijud35jjf.streamlit.app
+
 ## Archivos
 
 | Archivo | Descripción |
